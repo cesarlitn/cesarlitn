@@ -1,16 +1,27 @@
-## Hi
+# Victor Cesar Li Tolentino
 
-<!--
-**cesarlitn/cesarlitn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Engineering student in the 8th academic term, focused on software development, backend architecture, and application programming interface (API) design. Interested in building efficient systems, managing data persistence, and integrating artificial intelligence tools into real-world production environments.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Web Portfolio
+The interactive version of this space, including project case studies, technical breakdowns, and my resume, is available online.
+* **Direct link:** [Visit Web Portfolio](URL_OF_YOUR_PORTFOLIO_HERE)
+
+---
+
+### Technical Competencies
+
+* **Programming Languages:** JavaScript (Intermediate-high), Python (Intermediate-high), Java (Intermediate)
+* **Backend Development:** Node.js, Express, REST APIs, WebSockets
+* **Frontend Development:** React, HTML5, CSS3 (Design Tokens)
+* **Databases & Artificial Intelligence:** SQLite, PostgreSQL, Embedding Processing
+* **DevOps & Tools:** Git, Docker, Linux
+
+---
+
+### Contact & Professional Links
+
+* **GitHub:** [GitHub Profile](https://github.com/cesarlitn)
+* **LinkedIn:** [LinkedIn Profile](URL_OF_YOUR_LINKEDIN_HERE)
+* **Email:** [cesarlxtltn@gmail.com](mailto:cesarlxtltn@gmail.com)
